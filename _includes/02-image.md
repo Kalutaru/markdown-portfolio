@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen de rata](https://dam.ngenespanol.com/wp-content/uploads/2020/03/ratas.jpg)
